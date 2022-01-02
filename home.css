@@ -1,0 +1,7 @@
+#pokemon {
+   box-sizing: border-box;
+   position: relative;
+   align-items: center;
+   height: 100%;
+   width: 100%;
+   }
