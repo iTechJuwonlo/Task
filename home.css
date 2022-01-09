@@ -1,7 +1,14 @@
-#pokemon {
-   box-sizing: border-box;
-   position: relative;
-   align-items: center;
-   height: 100%;
-   width: 100%;
-   }
+#rectangle{ 
+width: 5000px;
+height: 2000px;
+background-color: white;
+position: relative;
+top: 320px;
+left: 230px;
+border-radius: 100px;
+}
+#pokemon{
+    top: 0px;
+    
+
+}
