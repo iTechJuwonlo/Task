@@ -1,16 +1,22 @@
 #rectangle{ 
-width: 5000px;
-height: 2000px;
+width: 100vw;
+height: 100vh;
 background-color: white;
 position: relative;
-top: 320px;
+display: flex;
+/* top: 320px;
 left: 230px;
-border-radius: 100px;
+border-radius: 100px; */
+}
+.vertical_line{
+    height: 50vh;
+    width: 2px;
+    background-color: black;
 }
 .pokemon{
     display: flex;
-    padding: 0px 4000px ;
-    top: 3000px;
+    /* padding: 0px 4000px ; */
+    /* top: 3000px; */
     
 
 
